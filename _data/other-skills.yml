@@ -1,0 +1,7 @@
+- name: Flutter
+  percentage: 95
+  color: success
+
+- name: Jetpack Compose
+  percentage: 70
+  color: info
